@@ -1,0 +1,5 @@
+{
+  "userName": "YOUR_NAME_OR_TEAM",
+  "userEmail": "your-email@example.com",
+  "notes": "Copy this file to .local-dev.json and customize locally. This file should NOT be committed."
+}

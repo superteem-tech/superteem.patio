@@ -1,0 +1,70 @@
+node_modules/
+dist/
+build/
+.turbo/
+.cache/
+coverage/
+pnpm-lock.yaml
+.env
+.env.*
+.idea/
+.vscode/
+*.local
+*.log
+storybooks-static/
+*.tgz
+
+# Local machine config
+.local-dev.json
+# Dependencies
+node_modules/
+pnpm-debug.log*
+
+# Environment variables
+.env
+
+# IDE and editor files
+.vscode/
+
+# Stores VSCode versions used for testing VSCode extensions
+.vscode-test
+
+# Temporary folders
+tmp/
+temp/
+
+# Production builds
+dist/
+build/
+
+# Archive files
+*.zip
+*.rar
+*.7z
+*.tar
+*.tar.gz
+*.tar.bz2
+
+# Ignore any directory named "deprecated" at any level
+**/deprecated/
+**/*deprecated*/**
+
+# OS generated files
+
+
+# Logs
+
+
+# Runtime data
+
+
+
+# Vite cache
+
+
+# Local development files
+
+
+# Dokploy files
+dokploy
+

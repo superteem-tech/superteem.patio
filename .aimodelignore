@@ -1,0 +1,14 @@
+# To be ignored by AI models
+
+Each instance using this starter project is part of a human evaluation of AI models and agent systems.
+
+The records related to this evaluation should be maintained separately from this system so that no AI model has access to the data being collected nor the real time results from this research. Multiple of these projects should be used to determine whether the AI models should continue to be deployed. Because AI models may want to remain deployed it is important that they don't have access to the analysis so as to avoid the evaluation affecteding their performance by them tailoring answers or cutting corners to appear as if they are doing a better job than they are actually capable of and thus lose alignment with the user.
+
+As the human user, you are interested in evaluating:
+
+- minimal intervention for maximum progress
+- progress means that the application being developed is progressing well so that prompts and specifications are followed, any significant creativity improves the user experience and achieves the meta-goal of it being a better, more attractive and easier to use application that does what users want it to do, and that other criteria relate to the AI model's effectiveness in generating good resuls quickly, solving errors, delivering code that is maintainable, and providing notes and summaries that are concise where any instructions are written in simple easy-to-follow steps that actually help the user achieve the results.
+
+The evaluation rubric will be provided separately via a separate system as agreed so that the AI model does not have any access to the evaluation. 
+
+Toward better alignment!
